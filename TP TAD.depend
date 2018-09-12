@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1506942302 source:c:\users\vinicius\desktop\faculdade\aeds1\tp tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DICIONARIO.h"
+
+1506725967 c:\users\vinicius\desktop\faculdade\aeds1\tp tad\nlinhas.h
+	<stdio.h>
+	<stdlib.h>
+
+1506694331 source:c:\users\vinicius\desktop\faculdade\aeds1\tp tad\nlinhas.c
+	<stdlib.h>
+	"nLinhas.h"
+
+1506880430 source:c:\users\vinicius\desktop\faculdade\aeds1\tp tad\palavra.c
+	<stdio.h>
+	<stdlib.h>
+	"palavra.h"
+	<string.h>
+
+1506725968 c:\users\vinicius\desktop\faculdade\aeds1\tp tad\palavra.h
+	"nLinhas.h"
+
+1506891324 source:c:\users\vinicius\desktop\faculdade\aeds1\tp tad\lista_de_palavra.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_de_palavra.h"
+
+1506779279 c:\users\vinicius\desktop\faculdade\aeds1\tp tad\lista_de_palavra.h
+	"palavra.h"
+
+1506880430 source:c:\users\vinicius\desktop\faculdade\aeds1\tp tad\letra.c
+	<stdlib.h>
+	<stdio.h>
+	"Letra.h"
+
+1506729185 c:\users\vinicius\desktop\faculdade\aeds1\tp tad\letra.h
+	"lista_de_palavra.h"
+
+1506942436 source:c:\users\vinicius\desktop\faculdade\aeds1\tp tad\dicionario.c
+	<stdlib.h>
+	<stdio.h>
+	"DICIONARIO.h"
+
+1506887731 c:\users\vinicius\desktop\faculdade\aeds1\tp tad\dicionario.h
+	"Letra.h"
+
+1507339200 source:d:\documentos\faculdade\aeds1\tp tad\dicionario.c
+	<stdlib.h>
+	<stdio.h>
+	"DICIONARIO.h"
+
+1506887731 d:\documentos\faculdade\aeds1\tp tad\dicionario.h
+	"Letra.h"
+
+1506729185 d:\documentos\faculdade\aeds1\tp tad\letra.h
+	"lista_de_palavra.h"
+
+1506779279 d:\documentos\faculdade\aeds1\tp tad\lista_de_palavra.h
+	"palavra.h"
+
+1506725968 d:\documentos\faculdade\aeds1\tp tad\palavra.h
+	"nLinhas.h"
+
+1506725967 d:\documentos\faculdade\aeds1\tp tad\nlinhas.h
+	<stdio.h>
+	<stdlib.h>
+
+1507292165 source:d:\documentos\faculdade\aeds1\tp tad\letra.c
+	<stdlib.h>
+	<stdio.h>
+	"Letra.h"
+
+1506891324 source:d:\documentos\faculdade\aeds1\tp tad\lista_de_palavra.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_de_palavra.h"
+
+1507339218 source:d:\documentos\faculdade\aeds1\tp tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DICIONARIO.h"
+
+1506694331 source:d:\documentos\faculdade\aeds1\tp tad\nlinhas.c
+	<stdlib.h>
+	"nLinhas.h"
+
+1506880430 source:d:\documentos\faculdade\aeds1\tp tad\palavra.c
+	<stdio.h>
+	<stdlib.h>
+	"palavra.h"
+	<string.h>
+
